@@ -14,7 +14,7 @@ This is an ASP.NET Core application that provides a user authentication system u
 1. Clone this repository to your local machine.
    
    ```bash
-   git clone https://github.com/your-repository/DoJoinTask.git```
+   git clone git remote set-url origin https://github.com/mvmshakkir/DoJoinTask.git```
 2 Install required NuGet packages
    ```dotnet restore```
    
